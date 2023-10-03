@@ -1,0 +1,15 @@
+form {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+form label {
+    border-bottom: 1px solid black;
+    margin: 10px 0;
+    text-align: justify;
+}
+
+form input {
+    margin: 10px;
+}
